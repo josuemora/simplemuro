@@ -30,11 +30,14 @@
 - (IBAction)btn_segundo:(id)sender {
     NSLog(@"segundo boton");
     //agrego linea
+    //agrego linea
     
 }
 
 - (IBAction)btn_tercero:(id)sender {
     NSLog(@"Tercer boton");
+    //agrego linea
+    //agrego linea
     //agrego linea
     
 }
@@ -42,11 +45,14 @@
 - (IBAction)btn_cuarto:(id)sender {
     NSLog(@"Cuarto boton");
     //agrego linea
+    //agrego linea
     
 }
 
 - (IBAction)btn_primero:(id)sender {
     NSLog(@"primer boton");
+    //agrego linea
+    //agrego linea
     //agrego linea
     
 }

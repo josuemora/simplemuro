@@ -26,4 +26,8 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)btn_primero:(id)sender {
+    
+    NSLog(@"primer boton");
+}
 @end

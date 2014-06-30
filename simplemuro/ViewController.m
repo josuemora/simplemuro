@@ -26,8 +26,13 @@
     // Dispose of any resources that can be recreated.
 }
 
+
+- (IBAction)btn_segundo:(id)sender {
+    NSLog(@"segundo boton");
+}
+
 - (IBAction)btn_primero:(id)sender {
-    
     NSLog(@"primer boton");
 }
+
 @end

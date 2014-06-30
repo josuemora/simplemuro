@@ -31,6 +31,10 @@
     NSLog(@"segundo boton");
 }
 
+- (IBAction)btn_tercero:(id)sender {
+    NSLog(@"Tercer boton");
+}
+
 - (IBAction)btn_primero:(id)sender {
     NSLog(@"primer boton");
 }

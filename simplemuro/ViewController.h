@@ -12,5 +12,6 @@
 - (IBAction)btn_primero:(id)sender;
 - (IBAction)btn_segundo:(id)sender;
 - (IBAction)btn_tercero:(id)sender;
+- (IBAction)btn_cuarto:(id)sender;
 
 @end
